@@ -1,0 +1,39 @@
+## MCQ
+Question: What is the formula to convert a fraction to a percentage?
+A) Percentage / 100
+B) Fraction × 100
+C) X% of Y
+D) (Increase / Original Value) × 100
+Correct Answer: B) Fraction × 100
+
+## MCQ
+Question: According to the text, what is the net decrease in percentage if an amount is increased by a% and then decreased by the same a%?
+A) a%
+B) a²/100 %
+C) 2a%
+D) 100/a² %
+Correct Answer: B) a²/100 %
+
+## MCQ
+Question: What does CP stand for in the context of profit and loss?
+A) Selling Price
+B) Marked Price
+C) Cost Price
+D) Discount Price
+Correct Answer: C) Cost Price
+
+## MCQ
+Question: If two numbers are x% and y% more than a third number, which formula calculates the percentage of the first with respect to the second?
+A)  (R x 100) / (100+R)
+B)  (100 - d) / MP x 100
+C)  ((100+x) / (100+y)) × 100%
+D)  Discount/MP × 100
+Correct Answer: C)  ((100+x) / (100+y)) × 100%
+
+## MCQ
+Question: What is the formula for simple interest (SI)?
+A) P(1 + R/100)^T
+B) P×R×T
+C)  (P×R×T) /100
+D) MP - Discount
+Correct Answer: C) (P×R×T) /100

@@ -1,0 +1,39 @@
+## MCQ
+Question: According to the text, what is a 'symbol' in the context of Theory of Computation?
+A) A finite sequence of characters.
+B) A set of strings over an alphabet.
+C) The smallest indivisible entity; a unique atom of information.
+D) A finite set of characters.
+Correct Answer: C
+
+## MCQ
+Question: Which of the following is a characteristic of a Deterministic Automata?
+A) It can have multiple choices for the next move.
+B) It conceptually "branches" into many computation paths in parallel.
+C) It has no defined move for a given state and input.
+D) At any point, given the current state and input, there is at most one possible move.
+Correct Answer: D
+
+## MCQ
+Question: Given G = (V,T,S,P) represents a grammar, what does 'T' stand for?
+A) Variables
+B) Non-terminals
+C) Terminals
+D) Start Symbol
+Correct Answer: C
+
+## MCQ
+Question: According to Arden's Theorem, if P and Q are two regular expressions over alphabet Σ, and P does not contain a null string, then the solution to R = Q + RP is:
+A) R = P*Q
+B) R = PQ*
+C) R = QP*
+D) R = Q*P
+Correct Answer: C
+
+## MCQ
+Question: Which of the following statements is true about the Pumping Lemma for Regular Languages?
+A) It gives a sufficient condition for a language to be regular.
+B) It gives a necessary and sufficient condition for a language to be regular.
+C) It gives a necessary but not sufficient condition for a language to be regular.
+D) It can only be applied to finite languages.
+Correct Answer: C

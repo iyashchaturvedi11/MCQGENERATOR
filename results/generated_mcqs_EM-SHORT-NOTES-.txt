@@ -1,0 +1,39 @@
+## MCQ
+Question: What is the condition for two matrices A and B to be equal?
+A) They must have the same number of rows.
+B) They must have the same number of columns.
+C) They must have the same order and corresponding elements must be equal.
+D) They must be square matrices.
+Correct Answer: C) They must have the same order and corresponding elements must be equal.
+
+## MCQ
+Question: Which of the following properties is true for the transpose of a matrix product (AB), where A and B are matrices of appropriate order?
+A) (AB)<sup>T</sup> = A<sup>T</sup>B<sup>T</sup>
+B) (AB)<sup>T</sup> = A<sup>-1</sup>B<sup>-1</sup>
+C) (AB)<sup>T</sup> = B<sup>T</sup>A<sup>T</sup>
+D) (AB)<sup>T</sup> = A<sup>T</sup> + B<sup>T</sup>
+Correct Answer: C) (AB)<sup>T</sup> = B<sup>T</sup>A<sup>T</sup>
+
+## MCQ
+Question: What does the determinant of a 3x3 matrix represent geometrically?
+A) The area of a parallelogram.
+B) The volume of a sphere.
+C) The volume of a parallelepiped.
+D) The length of a vector.
+Correct Answer: C) The volume of a parallelepiped.
+
+## MCQ
+Question: If A is a square matrix and |A| ≠ 0, what is the formula for the inverse of A?
+A) A<sup>-1</sup> = |A| * Adj(A)
+B) A<sup>-1</sup> = Adj(A) / |A|
+C) A<sup>-1</sup> = |A| / Adj(A)
+D) A<sup>-1</sup> = Adj(A)
+Correct Answer: B) A<sup>-1</sup> = Adj(A) / |A|
+
+## MCQ
+Question: According to the text, what is the necessary and sufficient condition for a homogeneous system of linear equations (AA = 0) to have non-trivial solutions?
+A) The number of equations must be equal to the number of variables.
+B) The determinant of A must be non-zero.
+C) The rank of A must be equal to the number of variables (n).
+D) The rank of A must be less than the number of variables (n).
+Correct Answer: D) The rank of A must be less than the number of variables (n).
